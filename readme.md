@@ -1,5 +1,7 @@
 # xhr-fetch-proxy
 
+[![npm version](https://img.shields.io/npm/v/xhr-fetch-proxy.svg)](https://www.npmjs.com/package/xhr-fetch-proxy) [![unpkg](https://img.shields.io/badge/unpkg-browse-blue)](https://unpkg.com/browse/xhr-fetch-proxy/)
+
 A proxy for XMLHttpRequest (XHR) that uses the Fetch API under the hood
 
 ## Why does this even exist?
