@@ -1,0 +1,6 @@
+.idea
+.nvmrc
+test.spec.js
+server.js
+karma.conf.js
+.github
