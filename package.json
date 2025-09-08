@@ -19,7 +19,7 @@
   "license": "MIT",
   "description": "A proxy for XMLHttpRequest (XHR) that uses the Fetch API under the hood",
   "devDependencies": {
-    "chai": "^5.1.2",
+    "chai": "^6.0.1",
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "jasmine": "^5.5.0",
